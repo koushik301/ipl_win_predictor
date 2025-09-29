@@ -1,9 +1,4 @@
 # 🏏 IPL Win Predictor
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Launch%20App-red)](https://ipl-match-predictor.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Source-blue)](https://github.com/rajatrawal/ipl-win-predictor)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 [![Python](https://img.shields.io/badge/Made%20With-Python%203.9-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?style=for-the-badge&logo=streamlit)](https://www.streamlit.io/)
 
